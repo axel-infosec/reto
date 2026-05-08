@@ -51,4 +51,4 @@ Priorización de Liquidez: El modelo final sacrifica exactitud global (Accuracy)
 
 Autor: Axel Emmanuel Angeles Rodriguez
 
-Contacto: Axel.Emmanuel.Angeles.Rodriguez@gmail.com
+Contacto: axel.emmanuel.angeles.rodriguez@gmail.com
